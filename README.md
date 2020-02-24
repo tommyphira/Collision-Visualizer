@@ -6,6 +6,10 @@ A program that uses data structures and object oriented programming techniques s
 * Pre collision balls = green
 * Post collision balls = red
 
+### CONTROLS:
+* Left arrow = Slow down speed of the balls.
+* Right arrow= Increases the speed of the balls.
+
 <img src="https://imgur.com/88j36tE.jpg" width="150">
 <img src="https://imgur.com/u6LgvTY.jpg" width="150">
 <img src="https://imgur.com/i9ftoTR.jpg" width="150">
