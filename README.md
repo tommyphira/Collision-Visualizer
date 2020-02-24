@@ -7,7 +7,7 @@ A program that uses data structures and object oriented programming techniques s
 * Post collision balls = red
 
 ### Controls:
-* Left arrow = Slow down speed of the balls.
+* Left arrow = Slows down speed of the balls.
 * Right arrow= Increases the speed of the balls.
 
 <img src="https://imgur.com/88j36tE.jpg" width="150">
