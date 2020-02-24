@@ -1,4 +1,4 @@
-# Custom Screen Saver [School Project]
+# Custom Screen Saver
 
 ### Description:
 A program that uses data structures and object oriented programming techniques such as inheritance to animate a screen saver where balls can bounce and collide in an enclosed box. 
