@@ -1,7 +1,7 @@
-# Custom Screen Saver
+# Collision Visualizer
 
 ### Description:
-A program that uses data structures and object oriented programming techniques such as inheritance to animate a screen saver where balls can bounce and collide in an enclosed box. 
+A program that applies data structures and object oriented programming techniques such as inheritance to create balls that bounce and collide in an enclosed box. Upon collision, the ball will change colors to indicate that it has collided with another ball. 
 
 * Pre collision balls = green
 * Post collision balls = red
